@@ -1,0 +1,8 @@
+name,quote
+Alice,"Hello, world!"
+Bob,"This is a test, with commas, inside quotes."
+Charlie,"Comma, separated, values, are tricky."
+Nim,"Quotes, commas, and more, all together."
+John,"""Double quotes"" can appear, too."
+"Smith, Jane","Her name, with a comma, is quoted."
+"icame, isaw, iconquered","A famous phrase, with, many, commas."
